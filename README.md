@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 Game
+## Project Description
+A simple implementation of the 2048 game using **JavaScript**, **HTML**, and **CSS**. The goal of the game is to combine tiles with the same number to reach 2048.
+## Links
+Live Preview: [2048 Game](https://shelyaa.github.io/js-2048-game/)
+
+Design Reference: The game is based on the classic 2048 design.
